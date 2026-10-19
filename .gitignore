@@ -1,0 +1,21 @@
+# UE generated files
+Binaries/
+Intermediate/
+DerivedDataCache/
+Saved/
+Plugins/**/Binaries/
+Plugins/**/Intermediate/
+
+# IDE
+.vs/
+.idea/
+*.sln
+*.slnx
+*.suo
+*.VC.db
+*.VC.opendb
+*.code-workspace
+
+# OS
+Thumbs.db
+.DS_Store
